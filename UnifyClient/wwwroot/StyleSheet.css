@@ -1,0 +1,34 @@
+﻿body {
+    height: 200px;
+    background-color: lightgreen; /* For browsers that do not support gradients */
+    background-image: linear-gradient(lightgreen, black); /* Standard syntax (must be last) */
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    position: fixed;
+    top:53%;
+    left:46.5%;
+    cursor: pointer;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+}
+
+
